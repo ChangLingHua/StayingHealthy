@@ -31,13 +31,10 @@
 <hr>  
   
 #### 伸展影片  <br>
-
-<image src="https://github.com/ChangLingHua/StayingHealthy/blob/main/image/video.png" height="300">
   
 <hr>  
   
 #### 音樂播放清單  <br>
 
-<image src="https://github.com/ChangLingHua/StayingHealthy/blob/main/image/music.png" height="300">
   
   
